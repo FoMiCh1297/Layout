@@ -1,0 +1,129 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.container {
+  margin: 0 auto;
+  width: 1500px;
+  box-sizing: border-box;
+  text-align: center;
+}
+header {
+  background-color: #fff;
+  border-bottom: solid 2px #e5e5e5;
+  padding-bottom: 35px;
+  padding-top: 45px;
+}
+header .a {
+  display: inline-block;
+}
+header .b {
+  margin-left: 320px;
+}
+header .s {
+  font-size: 50px;
+  color: #595959;
+}
+header .r {
+  color: black;
+}
+header .b nav a {
+  padding: 10px 15px;
+  line-height: 20px;
+  margin-left: 20px;
+  text-decoration: none;
+  color: black;
+}
+header .b nav a:hover {
+  padding: 10px 15px;
+  color: #fff;
+  line-height: 20px;
+  background-color: black;
+}
+section .e {
+  display: inline-block;
+  vertical-align: middle;
+  margin-top: 115px;
+  margin-left: 150px;
+  margin-bottom: 50px;
+}
+section .e .App {
+  font-size: 50px;
+}
+section .e .Revi {
+  font-size: 40px;
+}
+section .e .Video {
+  background-color: black;
+  color: #fff;
+  padding: 10px 15px 10px 50px;
+}
+section .e .r {
+  text-align: left;
+  margin-bottom: 10px;
+}
+section .er {
+  width: 790px;
+}
+section .e2 {
+  margin-left: 90px;
+}
+section .block_tet {
+  width: 320px;
+  height: 240px;
+  display: inline-block;
+  text-align: left;
+  vertical-align: top;
+}
+section .img_tet {
+  background-color: #b6b6b6;
+  width: 310px;
+  height: 240px;
+  display: inline-block;
+}
+section .gla_tet {
+  display: inline-block;
+}
+section .gla_tet2 {
+  display: inline-block;
+}
+section .gla_rere {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 720px;
+  height: 750px;
+  padding-left: 40px;
+  margin-top: 30px;
+}
+section .rere {
+  width: 220px;
+  height: 220px;
+  text-align: left;
+  margin-left: 20px;
+}
+section .c {
+  font-size: 15px;
+  text-align: justify;
+}
+section .gla_tet2 div {
+  margin-bottom: 30px;
+}
+section .gla_tet2 {
+  vertical-align: top;
+}
+section .gla_tet2 .n {
+  background-image: url('/img/ad1.png');
+  width: 322px;
+  height: 252px;
+}
+section .gla_tet2 .m {
+  background-image: url('/img/ad2.png');
+  width: 322px;
+  height: 280px;
+}
+section .gla_tet2 .b {
+  background-image: url('/img/subscribe.png');
+  width: 322px;
+  height: 270px;
+}
